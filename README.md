@@ -6,7 +6,3 @@
 
 お客様がこのパスワードのリセットをリクエストされていない場合は、管理者にご連絡ください。
 
-
-6KVJUVT3ZOI66DBBZLA5AZTW7Q
-
-NT5LWWZOALG2ZDNECEMILYF22M
