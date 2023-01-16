@@ -1,3 +1,4 @@
 # py_practice
 
-https://chart.apis.google.com/chart?chs=150x150&cht=qr&chl=otpauth%3A%2F%2Ftotp%2FWorkSpaces%5FAAA114927%3Fsecret%3D6KVJUVT3ZOI66DBBZLA5AZTW7Q%26digits%3D6
+1. ユーザーのプロファイルを入力し、次のリンクから WorkSpaces クライアントをダウンロードします。 https://d-9567749eae.awsapps.com/auth/?#invite:token=11E2G6vKBrNyBBpgFzvwPe79zQ-ITFseJE8C8_Z5ztaliAsyKyFXvDX8d7fl_QneTn7X4Lw88cftIF1Qv1De-MC7cCOyOZ7UaojShUOanLEQ6k6jS0US_2Zu6lQSv2F80JTJB0s2ztwu635qdcjk80lHws8IcJUcbrJixu-MD65CN3pSUXK-MW-21Y_mHNCUdhkKujgIVy61yix2g&redirect_uri=https://clients.amazonworkspaces.com/&client_id=0ef7da453c02806b 
+
